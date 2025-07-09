@@ -1,2 +1,5 @@
 This is my first Git file!
+My name is Gopagani Kiran Kumar
+I am a Chartered Accountant and working as Senior Business Analyst having overall 9.5 years of expereince out of which 6.5 years of expereince in Business Analysis
+
 
